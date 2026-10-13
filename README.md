@@ -3,6 +3,10 @@
 > 背完就能说：播客 / 采访 / 演讲 / 会议 / 谈判 / 社交，全套美式 chunks，条条带美式 IPA。
 > B2–C1 · 中性偏商务 · 中英双语 · 14 轮 · 350 条发音全 IPA · MD + 140 页 PDF 开源。
 
+📥 **最新版下载（v1.0-r1-r14）：[PDF（140 页）](https://github.com/jacknnnbauer/american-english-speaking-coach/releases/download/v1.0-r1-r14/American-English-Coaching.pdf) ·
+[MD 存档](https://github.com/jacknnnbauer/american-english-speaking-coach/releases/tag/v1.0-r1-r14)**
+· [更新日志](https://github.com/jacknnnbauer/american-english-speaking-coach/releases)
+
 ![cover](assets/shots/01-cover.png)
 
 ## 你是不是这样
